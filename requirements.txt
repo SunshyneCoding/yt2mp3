@@ -1,0 +1,3 @@
+yt-dlp==2023.12.30
+customtkinter==5.2.1
+moviepy==1.0.3
